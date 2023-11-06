@@ -1,0 +1,7 @@
+☆Streamlit
+フロントエンド側の記載がPythonでできる
+（…が、バリエーションは少ない）
+　→HTMLやCSSを記載する必要がない！
+
+コマンドプロンプト
+streamlit hello
